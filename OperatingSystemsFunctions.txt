@@ -1,0 +1,2 @@
+The Operating system has many jobs, the most basic and important is how the os  manages the computer's resources. The OS decided what programs to run on the cpu(proccessor).
+The OS also places documents and information in the Hard drive, RAM, or SSD. The OS also controls and reads input and output devices.
