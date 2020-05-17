@@ -1,2 +1,3 @@
 The Operating system has many jobs, the most basic and important is how the os  manages the computer's resources. The OS decided what programs to run on the cpu(proccessor).
 The OS also places documents and information in the Hard drive, RAM, or SSD. The OS also controls and reads input and output devices.
+The second main task that the operating system has to perform is Creating a User Interface. This is obviously incredibly important because without a well designed UI, The user wont be able to use the system to its fullest capacity. One example of an increadibly made UI is the windows 10 UI. A previous windows version, windows 8 has a horrible UI that caused lots of confusion and anger.
